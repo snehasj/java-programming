@@ -1,7 +1,7 @@
 ---
 path: '/part-11/3-exceptions'
 title: 'Exceptions'
-hidden: true
+hidden: false
 ---
 
 
@@ -369,7 +369,7 @@ The methods of the `Calculator` class should be follow in the following manner: 
 </programming-exercise>
 
 
-<text-box variant='hint' name='Poikkeusten tyypit'>
+<text-box variant='hint' name='Types of exceptions'>
 
 <!-- Edellä todettiin seuraavaa: *...poikkeuksia on karkeasti ottaen kahdenlaisia. On poikkeuksia jotka on pakko käsitellä, ja on poikkeuksia joita ei ole pakko käsitellä.*. -->
 We said *...there are roughly two categories of exceptions. Exceptions which must be handled, and exceptions which do not have to be handled.*.
@@ -459,7 +459,7 @@ Line 43 of the `print` method has thrown a `NullPointerException` exception.
 The details of an exception are very useful when trying to pinpoint where an error happens.
 
 
-<quiz id="c9dd9445-960a-5b60-88f6-d2de2323ea56"></quiz>
+<quiz id="96e2f6ba-4efd-54c0-8b60-a93c8de397c0"></quiz>
 
 
 <!-- <programming-exercise name='Sensorit ja lämpötila (4 osaa)' tmcname='osa11-Osa11_12.SensoritJaLampotila'> -->
